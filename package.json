@@ -1,0 +1,17 @@
+{
+  "name": "use-abort-fetch",
+  "version": "1.0.0",
+  "description": "Test my first package in npm",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"This is awesome\""
+  },
+  "keywords": [
+    "useAbortFetch",
+    "use-abort-fetch",
+    "kevelscy"
+  ],
+  "author": "kevelscy",
+  "license": "ISC"
+}
