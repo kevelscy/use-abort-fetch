@@ -13,5 +13,13 @@
     "kevelscy"
   ],
   "author": "kevelscy",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevelscy/use-abort-fetch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kevelscy/use-abort-fetch/issues"
+  },
+  "homepage": "https://github.com/kevelscy/use-abort-fetch#readme"
 }
