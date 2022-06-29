@@ -1,5 +1,5 @@
 {
-  "name": "@kevelscy/abort-fetch",
+  "name": "use-abort-fetch",
   "version": "1.0.0",
   "description": "Test my first package in npm",
   "main": "src/index.js",
